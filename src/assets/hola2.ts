@@ -1,4 +1,12 @@
-console.log("hola Titin");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+console.log("hola Titin, como estas?");
+
 
 const archivos = [
   { nombre: "archivo1.txt", tamaño: 100 },
